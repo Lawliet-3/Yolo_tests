@@ -6,3 +6,6 @@ I trained this on a dataset of 200 images and with 120 epochs. The result is in 
 ## Output video
 https://github.com/Lawliet-3/Yolo_tests/assets/48017441/3c7c9728-9d9c-449f-bd52-3e399e6bea03
 
+## Train & Val loss 
+
+![download](https://github.com/Lawliet-3/Yolo_tests/assets/48017441/398ed078-657b-4926-bc9a-aa0da311fe76)
